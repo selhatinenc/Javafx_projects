@@ -1,0 +1,7 @@
+# ninja log v5
+10	129	6924835024866234	CMakeFiles/assignment2_vers2.dir/Customer.cpp.obj	ed4eb2ca2018c0e3
+12	114	6924806272357139	CMakeFiles/assignment2_vers2.dir/Order.cpp.obj	83f2a33b16a4632c
+111	188	6924806273125147	CMakeFiles/assignment2_vers2.dir/Restaurant.cpp.obj	3e2b32ecec1ca725
+14	1297	6924835036386073	CMakeFiles/assignment2_vers2.dir/Queue.cpp.obj	c32c611f6c6cb876
+5	1963	6924846273323045	CMakeFiles/assignment2_vers2.dir/main.cpp.obj	c001077db4e6d49a
+1964	2115	6924846274819120	assignment2_vers2.exe	508fb4fda18fa52c

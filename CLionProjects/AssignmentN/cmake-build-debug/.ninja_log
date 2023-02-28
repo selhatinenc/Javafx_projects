@@ -1,0 +1,13 @@
+# ninja log v5
+644	1240	6916338364460792	CMakeFiles/AssignmentN.dir/CostumerQueue.cpp.obj	94f7a4bae31340b3
+7	221	6916338432551351	build.ninja	96d95b1eb734f520
+1	576	6916337322635065	CMakeFiles/AssignmentN.dir/main.cpp.obj	5cc60e48d357f183
+6	643	6916338358483013	CMakeFiles/AssignmentN.dir/CostumerNode.cpp.obj	17d0a86d9206b85a
+1754	1882	6916338370813711	AssignmentN.exe	441b4630bdac95ca
+618	1049	6916338362569623	CMakeFiles/AssignmentN.dir/CashierNode.cpp.obj	73e655a3ead5846d
+13	493	6916338357005483	CMakeFiles/AssignmentN.dir/BaristaQueue.cpp.obj	4b18ee12a6072bf8
+9	618	6916338358232367	CMakeFiles/AssignmentN.dir/CashierQueue.cpp.obj	f88a7f236fb26982
+494	925	6916338361327800	CMakeFiles/AssignmentN.dir/BaristaNode.cpp.obj	12881e56580af060
+926	1492	6916338366980402	CMakeFiles/AssignmentN.dir/FirstVersion.cpp.obj	86207413fa96108a
+1056	1645	6916338368520153	CMakeFiles/AssignmentN.dir/Versionone.cpp.obj	6bf2c95a88f0cd30
+1240	1754	6916338369601931	CMakeFiles/AssignmentN.dir/cmp.cpp.obj	9f290d54b6c16104

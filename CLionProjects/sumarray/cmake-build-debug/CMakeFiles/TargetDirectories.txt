@@ -1,0 +1,3 @@
+C:/Users/as_as/CLionProjects/sumarray/cmake-build-debug/CMakeFiles/sumarray.dir
+C:/Users/as_as/CLionProjects/sumarray/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/as_as/CLionProjects/sumarray/cmake-build-debug/CMakeFiles/rebuild_cache.dir

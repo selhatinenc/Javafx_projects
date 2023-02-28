@@ -1,0 +1,97 @@
+C  yok
+O  yok
+M  yok
+P  yok
+X  yok
+U  yok
+Max_BandWithd:470
+C  yok
+O  yok
+M  yok
+P  yok
+X  yok
+U  yok
+Max_BandWithd:470
+C 3(50) 
+O 1(50) 15(30) 
+M 5(50) 
+P 7(50) 13(25) 
+U 11(30) 9(30) 
+Max_BandWithd:400
+C  yok
+O  yok
+M  yok
+P  yok
+X  yok
+U  yok
+Max_BandWithd:470
+C  yok
+O  yok
+M  yok
+P  yok
+X  yok
+U  yok
+Max_BandWithd:470
+C 3(50) 
+O 1(50) 15(30) 
+M 5(50) 
+P 7(50) 13(25) 
+U 11(30) 9(30) 
+Max_BandWithd:400
+C 3(50) 11(30) 9(30) 
+O 1(50) 15(30) 
+M 5(50) 
+P 7(50) 13(25) 
+Max_BandWithd:560
+C  yok
+O  yok
+M  yok
+P  yok
+X  yok
+U  yok
+Max_BandWithd:470
+C  yok
+O  yok
+M  yok
+P  yok
+X  yok
+U  yok
+Max_BandWithd:470
+C 3(50) 
+O 1(50) 15(30) 
+M 5(50) 
+P 7(50) 13(25) 
+U 11(30) 9(30) 
+Max_BandWithd:400
+C  yok
+O  yok
+M  yok
+P  yok
+X  yok
+U  yok
+Max_BandWithd:470
+C  yok
+O  yok
+M  yok
+P  yok
+X  yok
+U  yok
+Max_BandWithd:470
+C 3(50) 
+O 1(50) 15(30) 
+M 5(50) 
+P 7(50) 13(25) 
+U 11(30) 9(30) 
+Max_BandWithd:400
+C 3(50) 11(30) 9(30) 
+O 1(50) 15(30) 
+M 5(50) 
+P 7(50) 13(25) 
+Max_BandWithd:560
+C 3(50) 11(30) 9(30) 
+O 1(50) 15(30) 
+M 5(50) 
+P 7(50) 13(25) 
+E 19(30) 21(25) 
+N 23(20) 27(20) 
+G 17(0) 25(35) 29(50) 
